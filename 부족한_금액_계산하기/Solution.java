@@ -1,4 +1,5 @@
 // https://school.programmers.co.kr/learn/courses/30/lessons/82612
+package 부족한_금액_계산하기;
 
 public class Solution {
     public long solution(int price, int money, int count) {
